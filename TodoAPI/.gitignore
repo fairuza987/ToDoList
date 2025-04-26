@@ -5,8 +5,8 @@ obj/
 *.suo
 
 # React
-todo-ui/node_modules/
-todo-ui/build/
+#todo-ui/node_modules/
+#todo-ui/build/
 
 # VS Code / Rider / JetBrains
 .vscode/
